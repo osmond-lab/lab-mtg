@@ -6,7 +6,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 |---|---|---|---|
 | Sep 11 | Matt | planning | with bocce |
 | Sep 18 | Litong & Mete | something shiny? |  |  
-| Sep 25 |  |  |  |  
+| Sep 25 | Matt | practice presentation | on rescue, for Holt lab mtg |  
 | Oct 2 |  |  |  |  
 | Oct 9 | - | - | university holiday |  
 | Oct 16 |  |  | good chance matt is home with newborn |  
