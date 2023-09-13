@@ -5,9 +5,9 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | date | leader | topic | notes | 
 |---|---|---|---|
 | Sep 11 | Matt | planning | with bocce |
-| Sep 18 | Litong & Mete | something shiny? |  |  
+| Sep 18 |  |  |  |  
 | Sep 25 | Matt | practice presentation | on rescue, for Holt lab mtg |  
-| Oct 2 |  |  |  |  
+| Oct 2 | Litong & Mete | shiny app |  |  
 | Oct 9 | - | - | university holiday |  
 | Oct 16 |  |  | good chance matt is home with newborn |  
 | Oct 23 |  |  | good chance matt is home with newborn |  
