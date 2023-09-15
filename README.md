@@ -7,7 +7,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Sep 11 | Matt | planning | with bocce |
 | Sep 18 | Litong & Mete | shiny app |  |  
 | Sep 25 | Matt | practice presentation | on rescue, for Holt lab mtg |  
-| Oct 2 | Ian Mathieson | Using ancient DNA to learn about human health and evolution | register: https://canssiontario.utoronto.ca/event/ares-iain-mathieson/?mc_cid=5bbf2bf8c2&mc_eid=a22a443224 |  
+| Oct 2 | Iain Mathieson | Using ancient DNA to learn about human health and evolution | register: https://canssiontario.utoronto.ca/event/ares-iain-mathieson/?mc_cid=5bbf2bf8c2&mc_eid=a22a443224 |  
 | Oct 9 | - | - | university holiday |  
 | Oct 16 |  |  | good chance matt is home with newborn |  
 | Oct 23 |  |  | good chance matt is home with newborn |  
