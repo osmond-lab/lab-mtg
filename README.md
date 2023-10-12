@@ -10,15 +10,15 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Oct 2 | Iain Mathieson | Using ancient DNA to learn about human health and evolution | register: https://canssiontario.utoronto.ca/event/ares-iain-mathieson/?mc_cid=5bbf2bf8c2&mc_eid=a22a443224 |  
 | Oct 9 | - | - | university holiday |  
 | Oct 16 | Kuangyi | PhD review | good chance matt is home with newborn |  
-| Oct 23 |  |  | good chance matt is home with newborn |  
-| Oct 30 |  |  |  |  
-| Nov 6 |  |  |  |  
-| Nov 13 |  |  |  |  
-| Nov 20 |  |  |  |  
-| Nov 27 |  |  |  |  
-| Dec 4 |  |  |  |  
-| Dec 11 |  |  |  |  
-| Dec 18 |  |  |  |  
+| Oct 23 | Chris |  | good chance matt is home with newborn |  
+| Oct 30 | Puneeth |  |  |  
+| Nov 6 | Mete |  |  |  
+| Nov 13 | Matt |  |  |  
+| Nov 20 | Kuangyi |  |  |  
+| Nov 27 | Chris |  |  |  
+| Dec 4 | Puneeth |  |  |  
+| Dec 11 | Mete |  |  |  
+| Dec 18 | Matt |  |  |  
 
 ## SUMMER 2023 
 | date | leader | type | topic | notes |
