@@ -10,7 +10,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Oct 2 | Iain Mathieson | Using ancient DNA to learn about human health and evolution | register: https://canssiontario.utoronto.ca/event/ares-iain-mathieson/?mc_cid=5bbf2bf8c2&mc_eid=a22a443224 |  
 | Oct 9 | - | - | university holiday |  
 | Oct 16 | Kuangyi | PhD review | good chance matt is home with newborn |  
-| Oct 23 | Chris |  | good chance matt is home with newborn |  
+| Oct 23 | Chris | Research Update | good chance matt is home with newborn |  
 | Oct 30 | Mete | evolution of epistasis: https://academic.oup.com/genetics/article/177/2/1001/6064448 |  |  
 | Nov 6 | Puneeth |  |  |  
 | Nov 13 | Matt |  |  |  
