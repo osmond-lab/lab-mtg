@@ -13,8 +13,8 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Oct 23 | Chris | Research Update | good chance matt is home with newborn |  
 | Oct 30 | Mete | evolution of epistasis: https://academic.oup.com/genetics/article/177/2/1001/6064448 |  |  
 | Nov 6 | Puneeth | Research Update : Phylogenetic Networks-[Distinguishability of Networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004135) and [Tree Sequences to infer Networks](https://www.biorxiv.org/content/10.1101/2020.08.02.233395v1.full.pdf) |  |  
-| Nov 13 | Matt |  |  |  
-| Nov 20 | Kuangyi |  |  |  
+| Nov 13 | Kuangyi |  |  |  
+| Nov 20 | Warren Ewens | book discussion | 9am |  
 | Nov 27 | Chris |  |  |  
 | Dec 4 | Puneeth |  |  |  
 | Dec 11 | Mete |  |  |  
