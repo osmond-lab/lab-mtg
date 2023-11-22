@@ -6,16 +6,16 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 |---|---|---|---|
 | Sep 11 | Matt | planning | with bocce |
 | Sep 18 | Litong & Mete | shiny app |  |  
-| Sep 25 | Matt | practice presentation | on rescue, for Holt lab mtg |  
+| Sep 25 | Matt | practice presentation | on spacetrees, for Holt lab mtg |  
 | Oct 2 | Iain Mathieson | Using ancient DNA to learn about human health and evolution | register: https://canssiontario.utoronto.ca/event/ares-iain-mathieson/?mc_cid=5bbf2bf8c2&mc_eid=a22a443224 |  
 | Oct 9 | - | - | university holiday |  
 | Oct 16 | Kuangyi | PhD review | good chance matt is home with newborn |  
 | Oct 23 | Chris | Research Update | good chance matt is home with newborn |  
 | Oct 30 | Mete | evolution of epistasis: https://academic.oup.com/genetics/article/177/2/1001/6064448 |  |  
 | Nov 6 | Puneeth | Research Update : Phylogenetic Networks-[Distinguishability of Networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004135) and [Tree Sequences to infer Networks](https://www.biorxiv.org/content/10.1101/2020.08.02.233395v1.full.pdf) |  |  
-| Nov 13 | - | -  |  |  
+| Nov 13 | - | -  | canceled |  
 | Nov 20 | Kuangyi | the infinitesimal model: [https://www.sciencedirect.com/science/article/pii/S0040580917300886](https://www.sciencedirect.com/science/article/pii/S0040580917300886) | 9am |  
-| Nov 27 | Chris |  |  |  
+| Nov 27 | Chris |  | coevolutionary arms races in mutualisms: https://www.journals.uchicago.edu/doi/pdfplus/10.1086%2F714274 |  
 | Dec 4 | Puneeth |  |  |  
 | Dec 11 | Mete | host-pathogen GWAS: [https://www.nature.com/articles/s41467-019-10724-w](https://www.nature.com/articles/s41467-019-10724-w)  |  |  
 | Dec 18 | Matt |  |  |  
