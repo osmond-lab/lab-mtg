@@ -15,7 +15,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Nov 6 | Puneeth | Research Update : Phylogenetic Networks-[Distinguishability of Networks](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004135) and [Tree Sequences to infer Networks](https://www.biorxiv.org/content/10.1101/2020.08.02.233395v1.full.pdf) |  |  
 | Nov 13 | - | -  | canceled |  
 | Nov 20 | Kuangyi | the infinitesimal model: [https://www.sciencedirect.com/science/article/pii/S0040580917300886](https://www.sciencedirect.com/science/article/pii/S0040580917300886) | 9am |  
-| Nov 27 | Chris |  | coevolutionary arms races in mutualisms: https://www.journals.uchicago.edu/doi/pdfplus/10.1086%2F714274 |  
+| Nov 27 | Chris | coevolutionary arms races in mutualisms: https://www.journals.uchicago.edu/doi/pdfplus/10.1086%2F714274 |  |
 | Dec 4 | Puneeth |  |  |  
 | Dec 11 | Mete | host-pathogen GWAS: [https://www.nature.com/articles/s41467-019-10724-w](https://www.nature.com/articles/s41467-019-10724-w)  |  |  
 | Dec 18 | Matt |  |  |  
