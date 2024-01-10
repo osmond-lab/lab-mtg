@@ -4,20 +4,20 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Date | Leader | Topic | Notes | 
 |---|---|---|---|
 | Jan 16 | Puneeth | Coevolution Paper (https://www.sciencedirect.com/science/article/pii/S0022519323002850?via%3Dihub) | |
-| Jan 23 |  |  |  |  
-| Jan 30 |  |  |  |  
-| Feb 6  |  |  |  |
-| Feb 13 |  |  |  |  
-| Feb 20 |  |  |  |  
-| Feb 27 |  |  |  |  
-| Mar 05 |  |  |  |  
-| Mar 12 |  |  |  |  
-| Mar 19 |  |  |  |  
-| Mar 26 |  |  |  |  
-| Apr 02 |  |  |  |
-| Apr 09 |  |  |  |  
-| Apr 17 |  |  |  |  
-| Apr 23 |  |  |  |  
+| Jan 23 | Chris |  |  |  
+| Jan 30 | Mete |  |  |  
+| Feb 6  | Kuangyi |  |  |
+| Feb 13 | Puneeth |  |  |  
+| Feb 20 | Chris |  |  |  
+| Feb 27 | Mete |  |  |  
+| Mar 05 | Kuangyi |  |  |  
+| Mar 12 | Puneeth |  |  |  
+| Mar 19 | Chris |  |  |  
+| Mar 26 | Mete |  |  |  
+| Apr 02 | Kuangyi |  |  |
+| Apr 09 | Puneeth |  |  |  
+| Apr 17 | Chris |  |  |  
+| Apr 23 | Mete |  |  |  
 
 
 ## FALL 2023
