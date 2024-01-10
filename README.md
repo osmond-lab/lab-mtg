@@ -1,7 +1,7 @@
 # lab-mtg
 A place to put the lab meeting schedule, and perhaps some associated docs
 ## Winter 2024
-| date | leader | topic | notes | 
+| Date | Leader | Topic | Notes | 
 |---|---|---|---|
 | Jan 16 | Puneeth | Coevolution Paper (https://www.sciencedirect.com/science/article/pii/S0022519323002850?via%3Dihub) | |
 | Jan 23 |  |  |  |  
