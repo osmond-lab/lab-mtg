@@ -5,7 +5,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 |---|---|---|---|
 | Jan 16 | Puneeth | Coevolution Paper (https://www.sciencedirect.com/science/article/pii/S0022519323002850?via%3Dihub) | |
 | Jan 23 | Chris |  |  |  
-| Jan 30 | Mete |  |  |  
+| Jan 30 | Mete | Gillespie 1984: https://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.1984.tb00380.x |  |  
 | Feb 6  | Kuangyi |  |  |
 | Feb 13 | Puneeth |  |  |  
 | Feb 20 | Chris |  |  |  
