@@ -8,7 +8,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Jan 30 | Mete | Gillespie 1984: https://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.1984.tb00380.x |  |  
 | Feb 6  | Kuangyi |  |  |
 | Feb 13 | Puneeth |  |  |  
-| Feb 20 | Chris |  |  |  
+| Feb 20 | Chris | Elevator Pitch Practice |  |  
 | Feb 27 | Mete | Agarwala & Fisher 2019: https://www.sciencedirect.com/science/article/abs/pii/S0040580919301765 |  |  
 | Mar 05 | Kuangyi |  |  |  
 | Mar 12 | Puneeth |  |  |  
