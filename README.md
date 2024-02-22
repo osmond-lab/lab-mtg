@@ -9,7 +9,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Feb 6  | Kuangyi |  |  |
 | Feb 13 | Puneeth |  |  |  
 | Feb 20 | Chris | Elevator Pitch Practice |  |  
-| Feb 27 | Mete | Agarwala & Fisher 2019: https://www.sciencedirect.com/science/article/abs/pii/S0040580919301765 |  |  
+| Feb 27 | Mete | coalescent estimation of recomb. rate: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1207867/pdf/ge1453833.pdf |  |  
 | Mar 05 | Kuangyi |  |  |  
 | Mar 12 | Puneeth |  |  |  
 | Mar 19 | Chris |  |  |  
