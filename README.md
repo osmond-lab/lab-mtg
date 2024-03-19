@@ -10,10 +10,10 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Feb 13 | Puneeth |  |  |  
 | Feb 20 | Chris | Elevator Pitch Practice |  |  
 | Feb 27 | Mete | coalescent estimation of recomb. rate: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1207867/pdf/ge1453833.pdf |  |  
-| Mar 05 | Kuangyi |  |  |  
-| Mar 12 | Puneeth |  |  |  
-| Mar 19 | Chris |  | matt out of town |  
-| Mar 26 | Mete |  |  |  
+| Mar 05 | Kuangyi | practice for departmental seminar |  |  
+| Mar 12 | Puneeth | effect of epigenetic and genetic architecture on the U-shape of rescue |  |  
+| Mar 19 | Chris | SLiM co-evolutionary model: https://www.biorxiv.org/content/10.1101/2023.12.07.570693v2.full | matt out of town |  
+| Mar 26 | Mete | crossover covariation: https://www.sciencedirect.com/science/article/pii/S009286741930203X?via%3Dihub |  |  
 | Apr 02 | Kuangyi |  |  |
 | Apr 09 | Puneeth |  |  |  
 | Apr 17 | Chris |  |  |  
