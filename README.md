@@ -1,5 +1,24 @@
 # lab-mtg
 A place to put the lab meeting schedule, and perhaps some associated docs
+
+## Summer 2024
+| Date | Leader | Topic | Notes | 
+|---|---|---|---|
+| May 28 | Matt | Bocce! | |
+| June 5 | Mete | Gillespie Ch1 | |
+| June 12 | Puneeth | Gillespie Ch2 | |
+| June 19 | Matt | Gillespie Ch3 | |
+| June 26 | Chris | Gillespie Ch4 | |
+| July 3 | Kuangyi | Gillespie Ch5 | |
+| July 10 | - | Gillespie Ch6 | |
+| July 17 | - | Gillespie Ch7 | |
+| July 24 | - | Evolution practice talks? | |
+| July 31 | - | Hildegard? Evolution summary? | |
+| August 7 | - | - | |
+| August 14 | - | - | |
+| August 21 | - | Catherine/Tabris? | |
+| August 28 | - | Catherine/Tabris? | |
+
 ## Winter 2024
 | Date | Leader | Topic | Notes | 
 |---|---|---|---|
@@ -18,7 +37,6 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Apr 09 | Puneeth |  |  |  
 | Apr 17 | Chris |  |  |  
 | Apr 23 | Mete |  |  |  
-
 
 ## FALL 2023
 | date | leader | topic | notes | 
