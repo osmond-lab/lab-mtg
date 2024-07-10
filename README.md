@@ -11,7 +11,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | June 26 | Chris | Gillespie Ch4 | |
 | July 3 | Kuangyi | Gillespie Ch5 | |
 | July 10 | Matt | Gillespie Ch6 | |
-| July 17 | - | Gillespie Ch7 | |
+| July 17 | Puneeth | Gillespie Ch7 | |
 | July 24 | - | Evolution practice talks? | |
 | July 31 | - | Hildegard? Evolution summary? | |
 | August 7 | - | - | |
