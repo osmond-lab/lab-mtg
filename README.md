@@ -15,9 +15,9 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | July 24 | - | Evolution practice talks? | |
 | July 31 | - | Hildegard? Evolution summary? | |
 | August 7 | - | - | |
-| August 14 | - | - | |
-| August 21 | - | Catherine/Tabris? | |
-| August 28 | - | Catherine/Tabris? | |
+| August 14 | - | Tabris practice talk? | |
+| August 21 | - | Catherine project presentation? | |
+| August 28 | - | | |
 
 ## Winter 2024
 | Date | Leader | Topic | Notes | 
