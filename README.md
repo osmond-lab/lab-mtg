@@ -14,7 +14,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | July 17 | Puneeth | Gillespie Ch7 | |
 | July 24 | - | Evolution practice talks? | |
 | July 31 | - | cancel for Evolution | |
-| August 7 | - | Hildegard? Evolution summary? | |
+| August 7 | - | Evolution summary? | |
 | August 14 | - | Tabris practice talk? | |
 | August 21 | - | Catherine project presentation? | |
 | August 28 | - | | |
