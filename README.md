@@ -12,9 +12,9 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | July 3 | Kuangyi | Gillespie Ch5 | |
 | July 10 | Matt | Gillespie Ch6 | |
 | July 17 | Puneeth | Gillespie Ch7 | |
-| July 24 | - | Evolution practice talks? | |
+| July 24 | - | Evolution practice talks | |
 | July 31 | - | cancel for Evolution | |
-| August 7 | - | Evolution summary? | cancelled due to fever |
+| August 7 | - | Evolution summary | cancelled due to fever |
 | August 14 | Matt | paper | https://www.biorxiv.org/content/10.1101/2021.11.01.466728v4 |
 | August 21 | - | Tabris practice talk | |
 | August 28 | - | Catherine project presentation | |
