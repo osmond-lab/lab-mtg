@@ -14,10 +14,10 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | July 17 | Puneeth | Gillespie Ch7 | |
 | July 24 | - | Evolution practice talks? | |
 | July 31 | - | cancel for Evolution | |
-| August 7 | - | Evolution summary? | |
-| August 14 | - | Tabris practice talk? | |
-| August 21 | - | Catherine project presentation? | |
-| August 28 | - | | |
+| August 7 | - | Evolution summary? | cancelled due to fever |
+| August 14 | - | paper | |
+| August 21 | - | Tabris practice talk | |
+| August 28 | - | Catherine project presentation | |
 
 ## Winter 2024
 | Date | Leader | Topic | Notes | 
