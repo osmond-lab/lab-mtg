@@ -16,8 +16,9 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | July 31 | - | cancel for Evolution | |
 | August 7 | - | Evolution summary | cancelled due to fever |
 | August 14 | Matt | paper | https://www.biorxiv.org/content/10.1101/2021.11.01.466728v4 |
-| August 21 | - | Tabris practice talk | |
-| August 28 | - | Catherine project presentation | |
+| August 19 | Tabris | practice talk | special Monday edition |
+| August 22 | Catherine | project presentation | |
+| August 28 | - | taking a break before fall | |
 
 ## Winter 2024
 | Date | Leader | Topic | Notes | 
