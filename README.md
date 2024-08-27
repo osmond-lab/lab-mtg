@@ -1,6 +1,25 @@
 # lab-mtg
 A place to put the lab meeting schedule, and perhaps some associated docs
 
+## Fall 2024
+| Date | Leader | Topic | Notes | 
+|---|---|---|---|
+| Sept 9 | | | |
+| Sept 16 | | | |
+| Sept 23 | | | |
+| Sept 30 | | | |
+| Oct 7 | | | |
+| Oct 14 | - | - | holiday |
+| Oct 21 |  |  | |
+| Oct 28 |  |  | |
+| Nov 4 | - | - | Chris appraisal |
+| Nov 11 | | | |
+| Nov 18 | |  |  |
+| Nov 25 |  |  |  |
+| Dec 2 |  |  |  |
+| Dec 9 |  |  | |
+| Dec 16 |  | | |
+
 ## Summer 2024
 | Date | Leader | Topic | Notes | 
 |---|---|---|---|
