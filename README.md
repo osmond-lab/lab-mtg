@@ -4,7 +4,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 ## Fall 2024
 | Date | Leader | Topic | Notes | 
 |---|---|---|---|
-| Sept 9 | | | |
+| Sept 9 | Chris | Coevo rescue | |
 | Sept 16 | | | |
 | Sept 23 | | | |
 | Sept 30 | | | |
