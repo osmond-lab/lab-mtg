@@ -5,8 +5,8 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Date | Leader | Topic | Notes | 
 |---|---|---|---|
 | Sept 9 | Chris | Coevo rescue | |
-| Sept 16 | | | |
-| Sept 23 | | | |
+| Sept 16 | Kuangyi | Drift in Fisher's runaway model | |
+| Sept 23 | Mete | Recombination modifiers | https://www.pnas.org/doi/full/10.1073/pnas.2022805118 |
 | Sept 30 | | | |
 | Oct 7 | | | |
 | Oct 14 | - | - | holiday |
