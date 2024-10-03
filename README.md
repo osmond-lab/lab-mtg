@@ -7,10 +7,10 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Sept 9 | Chris | Coevo rescue | |
 | Sept 16 | Kuangyi | Drift in Fisher's runaway model | |
 | Sept 23 | Mete | Recombination modifiers | https://www.pnas.org/doi/full/10.1073/pnas.2022805118 |
-| Sept 30 | | | |
+| Sept 30 | skipped | | http://www.fields.utoronto.ca/activities/24-25/oncology-evolution |
 | Oct 7 | | | |
 | Oct 14 | - | - | holiday |
-| Oct 21 |  |  | |
+| Oct 21 | David McLeod |  | joint with Mideo lab |
 | Oct 28 |  |  | |
 | Nov 4 | - | - | Chris appraisal |
 | Nov 11 | | | |
