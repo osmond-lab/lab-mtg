@@ -11,7 +11,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Oct 7 | | | |
 | Oct 14 | - | - | holiday |
 | Oct 21 | David McLeod |  | joint with Mideo lab |
-| Oct 28 | https://www.when2meet.com/?27045381-gyJAj | Appraisal Practice?  | |
+| Oct 28 |Chris| Appraisal Practice?  | |
 | Nov 4 | - | - | Chris appraisal |
 | Nov 11 | | | |
 | Nov 18 | |  |  |
