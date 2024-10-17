@@ -8,10 +8,10 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Sept 16 | Kuangyi | Drift in Fisher's runaway model | |
 | Sept 23 | Mete | Recombination modifiers | https://www.pnas.org/doi/full/10.1073/pnas.2022805118 |
 | Sept 30 | - | - | http://www.fields.utoronto.ca/activities/24-25/oncology-evolution |
-| Oct 7 | | | |
+| Oct 7 | Puneeth | multivariate rescue ideas | |
 | Oct 14 | - | - | holiday |
 | Oct 21 | David McLeod |  | joint with Mideo lab |
-| Oct 28 |Chris| Appraisal Practice?  | |
+| Oct 28 | Chris | Appraisal Practice | |
 | Nov 4 | - | - | Chris appraisal |
 | Nov 11 | | | |
 | Nov 18 | |  |  |
