@@ -13,9 +13,9 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Oct 21 | David McLeod |  | joint with Mideo lab |
 | Oct 28 | Chris | Appraisal Practice | |
 | Nov 4 | - | - | Chris appraisal |
-| Nov 11 | | | |
-| Nov 18 | |  |  |
-| Nov 25 |  |  |  |
+| Nov 11 | Mete | appraisal practice | |
+| Nov 18 | Puneeth |  ARGs |  |
+| Nov 25 | Kuangyi | job talk practice |  |
 | Dec 2 |  |  |  |
 | Dec 9 |  |  | |
 | Dec 16 |  | | |
