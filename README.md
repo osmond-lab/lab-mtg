@@ -10,7 +10,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Sept 30 | - | - | http://www.fields.utoronto.ca/activities/24-25/oncology-evolution |
 | Oct 7 | Puneeth | multivariate rescue ideas | |
 | Oct 14 | - | - | holiday |
-| Oct 21 | David McLeod |  | joint with Mideo lab |
+| Oct 21 | David McLeod | triple LD | joint with Mideo lab |
 | Oct 28 | Chris | Appraisal Practice | |
 | Nov 4 | - | - | Chris appraisal |
 | Nov 11 | Mete | appraisal practice | |
