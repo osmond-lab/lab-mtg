@@ -17,8 +17,8 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Nov 18 | Puneeth |  ARGs |  |
 | Nov 25 | Kuangyi | job talk practice |  |
 | Dec 2 | Kuangyi | job talk practice part 2 |  |
-| Dec 9 |  |  | |
-| Dec 16 |  | | |
+| Dec 9 | Rebekah | stochasticity in the moving optimum model | |
+| Dec 16 | - | - | faculty retreat |
 
 ## Summer 2024
 | Date | Leader | Topic | Notes | 
