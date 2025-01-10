@@ -1,6 +1,26 @@
 # lab-mtg
 A place to put the lab meeting schedule, and perhaps some associated docs
 
+## Winter 2025
+| Date | Leader | Topic | Notes | 
+|---|---|---|---|
+| Jan 10 | Matt | mimulus rescue paper | https://www.biorxiv.org/content/10.1101/2024.10.24.619808v1 |
+| Jan 17 | Kuangyi | job talk practice | Matt away |
+| Jan 24 | Puneeth | rescue with mate limitation manuscript | Matt away |
+| Jan 31 | Chris | coevolution rescue update |  |
+| Feb 7 | Mete |  | |
+| Feb 14 | Rebekah |  |  |
+| Feb 21 | Kuangyi |  | reading week |
+| Feb 28 | Puneeth |  | |
+| Mar 7 | Chris |  |  |
+| Mar 14 | Mete |  | |
+| Mar 21 | Rebekah |   |  |
+| Mar 28 | Tabris | 397 project talk |  |
+| Apr 4 | | | international day of evolutionary rescue! |
+| Apr 11 | - | - | Atwood |
+| Apr 18 | - | - | holiday |
+| Apr 25 |  |  |  |
+
 ## Fall 2024
 | Date | Leader | Topic | Notes | 
 |---|---|---|---|
