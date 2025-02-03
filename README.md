@@ -7,7 +7,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Jan 10 | Matt | mimulus rescue paper | https://www.biorxiv.org/content/10.1101/2024.10.24.619808v1 |
 | Jan 17 | Kuangyi | job talk practice | Matt away |
 | Jan 24 | Puneeth | rescue with mate limitation manuscript | Matt away |
-| Jan 31 | Chris | coevolution rescue update |  |
+| Jan 31 | Chris | coop ch 3 |  |
 | Feb 7 | Mete |  | |
 | Feb 14 | Rebekah |  |  |
 | Feb 21 | Kuangyi |  | reading week |
