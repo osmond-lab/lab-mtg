@@ -11,7 +11,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Feb 7 | Mete |  | |
 | Feb 14 | Rebekah |  |  |
 | Feb 21 | Kuangyi |  | reading week |
-| Feb 28 | Puneeth |  | |
+| Feb 28 | Puneeth | Human Pop Gen of India | |
 | Mar 7 | Chris |  |  |
 | Mar 14 | Mete |  | |
 | Mar 21 | Rebekah |   |  |
