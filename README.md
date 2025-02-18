@@ -9,7 +9,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Jan 24 | Puneeth | rescue with mate limitation manuscript | Matt away |
 | Jan 31 | Chris | coop ch 3 |  |
 | Feb 7 | Mete | update on recombination landscape model | |
-| Feb 14 | Rebekah |  |  |
+| Feb 14 | Rebekah | msc manuscript feedback |  |
 | Feb 21 | Kuangyi |  | reading week |
 | Feb 28 | Puneeth | Human Pop Gen of India | |
 | Mar 7 | Chris |  |  |
