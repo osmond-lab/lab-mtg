@@ -10,7 +10,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Jan 31 | Chris | coop ch 3 |  |
 | Feb 7 | Mete | update on recombination landscape model | |
 | Feb 14 | Rebekah | msc manuscript feedback |  |
-| Feb 21 | Kuangyi |  | reading week |
+| Feb 21 | - | - | reading week |
 | Feb 28 | Puneeth | Human Pop Gen of India | https://www.biorxiv.org/content/10.1101/2024.02.15.580575v2 |
 | Mar 7 | Chris |  |  |
 | Mar 14 | Mete |  | |
