@@ -12,8 +12,8 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Feb 14 | Rebekah | msc manuscript feedback |  |
 | Feb 21 | - | - | reading week |
 | Feb 28 | Puneeth | Human Pop Gen of India | https://www.biorxiv.org/content/10.1101/2024.02.15.580575v2 |
-| Mar 7 | Chris |  |  |
-| Mar 14 | Mete |  | |
+| Mar 7 | Chris | feedback in coevo models | https://www.biorxiv.org/content/10.1101/2025.02.28.640831v1.full.pdf+html |
+| Mar 14 | Mete | evol eqns from demo stochasticity | https://www.journals.uchicago.edu/doi/abs/10.1086/733196?journalCode=an! |
 | Mar 21 | Rebekah |   |  |
 | Mar 28 | Tabris | 397 project talk |  |
 | Apr 4 | | | international day of evolutionary rescue! |
