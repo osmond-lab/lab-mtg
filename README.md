@@ -19,7 +19,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Apr 4 | | | international day of evolutionary rescue! |
 | Apr 11 | - | - | Atwood |
 | Apr 18 | - | - | holiday |
-| Apr 25 |  |  |  |
+| Apr 25 | Matt | Langdon et al 2024 | https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002742 |
 
 ## Fall 2024
 | Date | Leader | Topic | Notes | 
