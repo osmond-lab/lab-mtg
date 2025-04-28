@@ -1,6 +1,28 @@
 # lab-mtg
 A place to put the lab meeting schedule, and perhaps some associated docs
 
+## Summer 2025
+| Date | Leader | Topic | Notes | 
+|---|---|---|---|
+| May 2 | Puneeth | research update | |
+| May 9 | Mete |  | |
+| May 16 | - | - | holiday |
+| May 23 | - | - | Rebekah committee meeting |
+| May 30 | Rebekah |  | |
+| June 6 | Chris | |  |
+| June 13 | Kuangyi |  |  |
+| June 20 | Matt |  |  |
+| June 27 | - | - | matt away |
+| July 4 | - | - | matt away |
+| July 11 | Puneeth |   |  |
+| July 18 | Mete |  |  |
+| July 25 | Rebekah | |  |
+| Aug 1 | - | - | holiday |
+| Aug 8 | Raghav | research update |  |
+| Aug 15 | Chris | |  |
+| Aug 22 | Kuangyi |  |  |
+| Aug 29 | Matt |  | |
+
 ## Winter 2025
 | Date | Leader | Topic | Notes | 
 |---|---|---|---|
