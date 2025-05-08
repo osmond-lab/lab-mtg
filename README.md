@@ -5,7 +5,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Date | Leader | Topic | Notes | 
 |---|---|---|---|
 | May 2 | Puneeth | research update | |
-| May 9 | Mete |  | |
+| May 9 | Mete | journal club | https://www.biorxiv.org/content/10.1101/2025.04.03.646616v1 |
 | May 16 | - | - | holiday |
 | May 23 | - | - | Rebekah committee meeting |
 | May 30 | Rebekah |  | |
