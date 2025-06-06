@@ -9,7 +9,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | May 16 | - | - | holiday |
 | May 23 | - | - | Rebekah committee meeting |
 | May 30 | Rebekah |  | |
-| June 6 | Chris | |  |
+| June 6 | - | - | SMTPB |
 | June 13 | Kuangyi |  |  |
 | June 20 | Matt |  |  |
 | June 27 | - | - | matt away |
@@ -19,7 +19,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | July 25 | Rebekah | |  |
 | Aug 1 | - | - | holiday |
 | Aug 8 | Raghav | research update |  |
-| Aug 15 | Chris | |  |
+| Aug 15 | ? | |  |
 | Aug 22 | Kuangyi |  |  |
 | Aug 29 | Matt |  | |
 
