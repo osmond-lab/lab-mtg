@@ -8,7 +8,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | May 9 | Mete | journal club | https://www.biorxiv.org/content/10.1101/2025.04.03.646616v1 |
 | May 16 | - | - | holiday |
 | May 23 | - | - | Rebekah committee meeting |
-| May 30 | Rebekah |  | |
+| May 30 | Rebekah | SMTPB practice | |
 | June 6 | - | - | SMTPB |
 | June 13 | Kuangyi |  |  |
 | June 20 | Matt |  |  |
