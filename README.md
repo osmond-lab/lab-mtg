@@ -10,7 +10,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | May 23 | - | - | Rebekah committee meeting |
 | May 30 | Rebekah | SMTPB practice | |
 | June 6 | - | - | SMTPB |
-| June 13 | Kuangyi |  |  |
+| June 13 | Kuangyi | Evolution practice |  |
 | June 20 | Matt |  |  |
 | June 27 | - | - | matt away |
 | July 4 | - | - | matt away |
