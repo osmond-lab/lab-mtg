@@ -8,13 +8,13 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | May 9 | Mete | journal club | https://www.biorxiv.org/content/10.1101/2025.04.03.646616v1 |
 | May 16 | - | - | holiday |
 | May 23 | - | - | Rebekah committee meeting |
-| May 30 | Rebekah | SMTPB practice | |
+| May 30 | Rebekah/Puneeth/Mete | SMTPB practice | |
 | June 6 | - | - | SMTPB |
-| June 13 | Kuangyi | Evolution practice |  |
-| June 20 | Matt |  |  |
+| June 13 | Kuangyi/Mete | Evolution practice |  |
+| June 20 | Puneeth | Rescue mtg practice |  |
 | June 27 | - | - | matt away |
 | July 4 | - | - | matt away |
-| July 11 | Puneeth |   |  |
+| July 11 | Matt |   |  |
 | July 18 | Mete |  |  |
 | July 25 | Rebekah | |  |
 | Aug 1 | - | - | holiday |
