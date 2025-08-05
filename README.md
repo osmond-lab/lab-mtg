@@ -19,7 +19,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | July 25 | Rebekah | |  |
 | Aug 1 | - | - | holiday |
 | Aug 8 | Raghav | research update |  |
-| Aug 15 | ? | |  |
+| Aug 15 | - | | DSI symposium |
 | Aug 22 | Kuangyi |  |  |
 | Aug 29 | Matt |  | |
 
