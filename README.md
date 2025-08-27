@@ -20,8 +20,8 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Aug 1 | - | - | holiday |
 | Aug 8 | Raghav | research update |  |
 | Aug 15 | - | | DSI symposium |
-| Aug 22 | Kuangyi |  |  |
-| Aug 29 | Matt |  | |
+| Aug 22 | Kuangyi | journal club | https://academic.oup.com/evolut/article-abstract/71/1/23/6725958, https://rethinkingecology.pensoft.net/article/31992 |
+| Aug 29 | Matt | journal club | https://www.biorxiv.org/content/10.1101/2025.08.04.668505v1.abstract |
 
 ## Winter 2025
 | Date | Leader | Topic | Notes | 
