@@ -1,6 +1,13 @@
 # lab-mtg
 A place to put the lab meeting schedule, and perhaps some associated docs
 
+## Fall 2025
+| Date | Leader | Topic | Notes | 
+|---|---|---|---|
+| Sep 5 | Matt | journal club | https://www.science.org/doi/abs/10.1126/science.adq3010 |
+| Sep ? | Matt | journal club | https://www.biorxiv.org/content/10.1101/2024.09.25.615036 |
+
+
 ## Summer 2025
 | Date | Leader | Topic | Notes | 
 |---|---|---|---|
