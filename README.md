@@ -4,9 +4,21 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 ## Fall 2025
 | Date | Leader | Topic | Notes | 
 |---|---|---|---|
-| Sep 5 | Matt | journal club | https://www.science.org/doi/abs/10.1126/science.adq3010 |
-| Sep ? | Matt | journal club | https://www.biorxiv.org/content/10.1101/2024.09.25.615036 |
-
+| Sep 5 | Matt | journal club | Ben Peter archaic ancestry: https://www.science.org/doi/abs/10.1126/science.adq3010 |
+| Sep 10 | Matt | journal club | Ben Peter PCA: https://www.biorxiv.org/content/10.1101/2024.09.25.615036 |
+| Sep 17 | Puneeth | journal club | Bob Week microbiome-mediated evol: https://www.biorxiv.org/content/10.1101/2024.03.29.587374v1.full.pdf, https://www.nature.com/articles/s41559-025-02846-w  |
+| Sep 24 | Mete |  |  |
+| Oct 1 | Kuangyi |  |  |
+| Oct 8 | Rebekah |  |  |
+| Oct 15 | Puneeth |  |  |
+| Oct 22 | Mete |  |  |
+| Oct 29 | Kunagyi |  |  |
+| Nov 5 | Rebekah |  |  |
+| Nov 12 | Puneeth |  |  |
+| Nov 19 | Mete |  |  |
+| Nov 26 | Kuangyi |  |  |
+| Dec 3 | Rebekah |  |  |
+| Dec 10 | Matt |  |  |
 
 ## Summer 2025
 | Date | Leader | Topic | Notes | 
