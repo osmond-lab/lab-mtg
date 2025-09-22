@@ -9,7 +9,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Sep 17 | Puneeth | journal club | Bob Week microbiome-mediated evol: https://www.biorxiv.org/content/10.1101/2024.03.29.587374v1.full.pdf, https://www.nature.com/articles/s41559-025-02846-w  |
 | Sep 24 | Mete |  |  |
 | Oct 1 | Kuangyi |  |  |
-| Oct 8 | Rebekah |  |  |
+| Oct 8 | Matt |  |  |
 | Oct 15 | Puneeth |  |  |
 | Oct 22 | Mete |  |  |
 | Oct 29 | Kunagyi |  |  |
