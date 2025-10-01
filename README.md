@@ -2,23 +2,23 @@
 A place to put the lab meeting schedule, and perhaps some associated docs
 
 ## Fall 2025
-| Date | Leader | Topic | Notes | 
+| Date | Leader | Notes | 
 |---|---|---|---|
-| Sep 5 | Matt | journal club | Ben Peter archaic ancestry: https://www.science.org/doi/abs/10.1126/science.adq3010 |
-| Sep 10 | Matt | journal club | Ben Peter PCA: https://www.biorxiv.org/content/10.1101/2024.09.25.615036 |
-| Sep 17 | Puneeth | journal club | Bob Week microbiome-mediated evol: https://www.biorxiv.org/content/10.1101/2024.03.29.587374v1.full.pdf, https://www.nature.com/articles/s41559-025-02846-w  |
-| Sep 24 | Mete | journal club | Veller & Muralidhar drift: https://www.biorxiv.org/content/10.1101/2025.09.17.676933v1 |
-| Oct 1 | Kuangyi | discussion | writing |
-| Oct 6 | Matt | discussion | special Monday edition, writing workshop with Dan Newman |
-| Oct 15 | Puneeth |  |  |
-| Oct 22 | Mete |  |  |
-| Oct 29 | Kunagyi |  |  |
-| Nov 5 | Rebekah |  |  |
-| Nov 12 | Puneeth |  |  |
-| Nov 19 | Mete |  |  |
-| Nov 26 | Kuangyi |  |  |
-| Dec 3 | Rebekah |  |  |
-| Dec 10 | Matt |  |  |
+| Sep 5 | Matt | Ben Peter archaic ancestry: https://www.science.org/doi/abs/10.1126/science.adq3010 |
+| Sep 10 | Matt | Ben Peter PCA: https://www.biorxiv.org/content/10.1101/2024.09.25.615036 |
+| Sep 17 | Puneeth | Bob Week microbiome-mediated evol: https://www.biorxiv.org/content/10.1101/2024.03.29.587374v1.full.pdf, https://www.nature.com/articles/s41559-025-02846-w  |
+| Sep 24 | Mete | Veller & Muralidhar drift: https://www.biorxiv.org/content/10.1101/2025.09.17.676933v1 |
+| Oct 1 | Kuangyi | writing discussion |
+| Oct 6 | Matt | special Monday edition, writing workshop with Dan Newman |
+| Oct 15 | Puneeth |  | 
+| Oct 22 | Mete |  | 
+| Oct 29 | Kunagyi |  | 
+| Nov 5 | Rebekah |  | 
+| Nov 12 | Puneeth |  | 
+| Nov 19 | Mete |  | 
+| Nov 26 | Kuangyi |  | 
+| Dec 3 | Rebekah |  | 
+| Dec 10 | Matt |  | 
 
 ## Summer 2025
 | Date | Leader | Topic | Notes | 
