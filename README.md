@@ -10,9 +10,9 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Sep 24 | Mete  | Veller & Muralidhar drift: https://www.biorxiv.org/content/10.1101/2025.09.17.676933v1 |
 | Oct 1 | Kuangyi | writing discussion |
 | Oct 6 | Matt  | special Monday edition, writing workshop with Dan Newman |
-| Oct 15 | Puneeth |  |  
-| Oct 22 | Mete |  |  
-| Oct 29 | Kunagyi |  |  
+| Oct 15 | Puneeth | schreiber bet hedging: https://www.journals.uchicago.edu/doi/full/10.1086/683657 |  
+| Oct 22 | Mete | steve frank entropy: https://academic.oup.com/jeb/article-abstract/22/8/1563/7408072 |  
+| Oct 29 | Kunagyi | manuscript review |  
 | Nov 5 | Rebekah |  |  
 | Nov 12 | Puneeth |  |  
 | Nov 19 | Mete |  |  
