@@ -14,7 +14,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Oct 22 | Mete | steve frank entropy: https://academic.oup.com/jeb/article-abstract/22/8/1563/7408072 |  
 | Oct 29 | Kunagyi | manuscript review |  
 | Nov 5 | Rebekah |  |  
-| Nov 12 | Puneeth |  |  
+| Nov 12 | Chris |  |  
 | Nov 19 | Mete |  |  
 | Nov 26 | Kuangyi |  |  
 | Dec 3 | Rebekah |  |  
