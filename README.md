@@ -13,11 +13,11 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Oct 15 | Puneeth | schreiber bet hedging: https://www.journals.uchicago.edu/doi/full/10.1086/683657 |  
 | Oct 22 | Mete | steve frank entropy: https://academic.oup.com/jeb/article-abstract/22/8/1563/7408072 |  
 | Oct 29 | Kunagyi | manuscript review |  
-| Nov 5 | Rebekah |  |  
+| Nov 5 | Rebekah | cotto moving opt https://www.journals.uchicago.edu/doi/full/10.1086/702716  |  
 | Nov 12 | Chris | Research update |  
-| Nov 19 | Mete |  |  
-| Nov 26 | Kuangyi |  |  
-| Dec 3 | Rebekah |  |  
+| Nov 19 | Mete | protein evol https://www.biorxiv.org/content/10.1101/2025.11.07.687317v1 |  
+| Nov 26 | Kuangyi | speciation by sex chromosomes https://www.science.org/doi/10.1126/science.ado9032 |  
+| Dec 3 | Puneeth | efficient arg-lmm https://www.biorxiv.org/content/10.1101/2025.07.14.664631v2 |  
 | Dec 10 | Matt |  |  
 
 ## Summer 2025
