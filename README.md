@@ -4,6 +4,26 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 ## Fall 2025
 | Date | Leader  | Notes | 
 |---|---|---|
+| Jan 14 | Puneeth | Logistic Branching Process : https://www-sciencedirect-com.myaccess.library.utoronto.ca/science/article/pii/S0040580906000116 |
+| Jan 21 | Rebekah |  |
+| Jan 28 | Chris  | |
+| Feb 04 | Kuangyi  |  |
+| Feb 11 | Mete |  |
+| Feb 18 | Matt  |  |
+| Feb 25 | Puneeth |  |  
+| Mar 04 | Rebekah |  |  
+| Mar 11 | Chris |  |  
+| Mar 18 | Kuangyi |   |  
+| Mar 25 | Mete |  |  
+| Apr 01 | Matt |  |  
+| Apr 08 | Puneeth |  |  
+| Apr 15 | Rebekah |  |  
+| Apr 22 | Atwood Week! |  |  
+
+
+## Fall 2025
+| Date | Leader  | Notes | 
+|---|---|---|
 | Sep 5 | Matt | Ben Peter archaic ancestry: https://www.science.org/doi/abs/10.1126/science.adq3010 |
 | Sep 10 | Matt | Ben Peter PCA: https://www.biorxiv.org/content/10.1101/2024.09.25.615036 |
 | Sep 17 | Puneeth  | Bob Week microbiome-mediated evol: https://www.biorxiv.org/content/10.1101/2024.03.29.587374v1.full.pdf, https://www.nature.com/articles/s41559-025-02846-w  |
