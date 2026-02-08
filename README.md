@@ -7,7 +7,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Jan 14 | Puneeth | Logistic Branching Process : https://www-sciencedirect-com.myaccess.library.utoronto.ca/science/article/pii/S0040580906000116 |
 | Jan 21 | Rebekah | deterministic correction ms draft |
 | Jan 28 | Chris  | mutualism moving opt results |
-| Feb 04 | Kuangyi  |  |
+| Feb 04 | Kuangyi  | genetic basis of adaptation: https://www.biorxiv.org/content/10.1101/2025.05.15.654234v2 |
 | Feb 11 | Mete |  |
 | Feb 18 | Matt  | guest speaker: René S Shahmohamadloo |
 | Feb 25 | Puneeth |  |  
