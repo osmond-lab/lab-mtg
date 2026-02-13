@@ -8,7 +8,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Jan 21 | Rebekah | deterministic correction ms draft |
 | Jan 28 | Chris  | mutualism moving opt results |
 | Feb 04 | Kuangyi  | genetic basis of adaptation: https://www.biorxiv.org/content/10.1101/2025.05.15.654234v2 |
-| Feb 11 | Mete |  |
+| Feb 11 | Matt | copepod rescue: https://royalsocietypublishing.org/rspb/article/293/2064/20252650/479922 |
 | Feb 18 | Matt  | guest speaker: René S Shahmohamadloo |
 | Feb 25 | Puneeth |  |  
 | Mar 04 | Rebekah |  |  
