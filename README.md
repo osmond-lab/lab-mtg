@@ -11,7 +11,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Feb 11 | Matt | copepod rescue: https://royalsocietypublishing.org/rspb/article/293/2064/20252650/479922 |
 | Feb 18 | Matt  | guest speaker: René S Shahmohamadloo |
 | Feb 25 | Puneeth | Research Update: Role of non-genetics in evolution |  
-| Mar 04 | Rebekah |  |  
+| Mar 04 | Rebekah | Weak link epistasis: https://www.biorxiv.org/content/10.64898/2025.12.08.693057v2 |  
 | Mar 11 | Chris |  |  
 | Mar 18 | Kuangyi |   |  
 | Mar 25 | Mete |  |  
