@@ -12,11 +12,11 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Feb 18 | Matt  | guest speaker: René S Shahmohamadloo |
 | Feb 25 | Puneeth | Research Update: Role of non-genetics in evolution |  
 | Mar 04 | Rebekah | Weak link epistasis: https://www.biorxiv.org/content/10.64898/2025.12.08.693057v2 |  
-| Mar 11 | Chris |  |  
-| Mar 18 | Kuangyi |   |  
-| Mar 25 | Mete |  |  
+| Mar 11 | Tabris | Feeback on Poster |  
+| Mar 18 | Kuangyi | Balancing selection: https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpag006/8429812 |  
+| Mar 25 | Mete | Stabilizing selection : https://www.biorxiv.org/content/10.64898/2026.02.23.706325v2 |  
 | Apr 01 | Matt |  |  
-| Apr 08 | Puneeth |  |  
+| Apr 08 | Puneeth | Final committee meeting practice |  
 | Apr 15 | Rebekah |  |  
 | Apr 22 | Atwood Week! |  |  
 
