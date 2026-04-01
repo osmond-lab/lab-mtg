@@ -15,9 +15,9 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Mar 11 | Tabris | Feeback on Poster |  
 | Mar 18 | Kuangyi | Balancing selection: https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpag006/8429812 |  
 | Mar 25 | Mete | Stabilizing selection : https://www.biorxiv.org/content/10.64898/2026.02.23.706325v2 |  
-| Apr 01 | Matt |  |  
-| Apr 08 | Puneeth | Final committee meeting practice |  
-| Apr 15 | Rebekah |  |  
+| Apr 01 | Matt | Herring ER: https://www.biorxiv.org/content/10.1101/2025.08.05.668748v1.abstract  |  
+| Apr 08 | Mete | Atwood practice talk |  
+| Apr 15 | Puneeth | Final committee meeting practice |  
 | Apr 22 | Atwood Week! |  |  
 
 
