@@ -1,7 +1,25 @@
 # lab-mtg
 A place to put the lab meeting schedule, and perhaps some associated docs
 
-## Fall 2025
+## Summer 2026
+| Date | Leader  | Notes | 
+|---|---|---|
+| May 27 | Kuangyi | technical discussion |
+| Jun 03 | Mete | committee meeting practice |
+| Jun 10 |  | |
+| Jun 17 | SMBE practice | |
+| Jun 24 | - | SMBE |
+| Jul 01 | - | SMBE |
+| Jul 08 |  | |  
+| Jul 15 |  | |  
+| Jul 22 |  | |  
+| Jul 29 |  | |  
+| Aug 05 |  | |  
+| Aug 12 |  | |  
+| Aug 19 |  | |  
+| Aug 26 |  | |  
+
+## Winter 2026
 | Date | Leader  | Notes | 
 |---|---|---|
 | Jan 14 | Puneeth | Logistic Branching Process : https://www-sciencedirect-com.myaccess.library.utoronto.ca/science/article/pii/S0040580906000116 |
