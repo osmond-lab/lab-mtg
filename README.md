@@ -6,7 +6,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 |---|---|---|
 | May 27 | Kuangyi | technical discussion |
 | Jun 03 | Mete | committee meeting practice |
-| Jun 10 |  | |
+| Jun 10 | Chris | evolution talk practice |
 | Jun 17 | SMBE practice | |
 | Jun 24 | - | SMBE |
 | Jul 01 | - | SMBE |
