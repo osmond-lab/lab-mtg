@@ -11,7 +11,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Jun 24 | - | SMBE |
 | Jul 01 | - | SMBE |
 | Jul 08 |  | |  
-| Jul 15 |  | |  
+| Jul 15 | Jahin | Price eqn |  
 | Jul 22 |  | |  
 | Jul 29 |  | |  
 | Aug 05 |  | |  
