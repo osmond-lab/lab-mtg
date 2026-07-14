@@ -13,7 +13,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Jul 08 |  | |  
 | Jul 15 | Jahin | Price eqn |  
 | Jul 22 |  | |  
-| Jul 29 |  | |  
+| Jul 29 | Kuangyi | talk practice |  
 | Aug 05 |  | |  
 | Aug 12 |  | |  
 | Aug 19 |  | |  
