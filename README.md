@@ -14,7 +14,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Jul 15 | Jahin | Price eqn |  
 | Jul 22 | Chris | |  
 | Jul 29 | Kuangyi | talk practice |  
-| Aug 05 |  | |  
+| Aug 05 | Puneeth | defense practice |  
 | Aug 12 |  | |  
 | Aug 19 |  | |  
 | Aug 26 |  | |  
