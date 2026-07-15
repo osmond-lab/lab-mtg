@@ -10,9 +10,9 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Jun 17 | SMBE practice | |
 | Jun 24 | - | SMBE |
 | Jul 01 | - | SMBE |
-| Jul 08 |  | |  
+| Jul 08 | skipped | |  
 | Jul 15 | Jahin | Price eqn |  
-| Jul 22 |  | |  
+| Jul 22 | Mete | |  
 | Jul 29 | Kuangyi | talk practice |  
 | Aug 05 |  | |  
 | Aug 12 |  | |  
