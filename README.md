@@ -16,7 +16,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Jul 29 | Kuangyi | talk practice |  
 | Aug 05 | Puneeth | defense practice |  
 | Aug 12 | Puneeth | defense practice #2 |  
-| Aug 19 | Chris | time-stratified ARG statistics |  
+| Aug 19 | Chris | time-stratified ARG statistics: https://www.biorxiv.org/content/10.64898/2026.08.11.744210v1 |  
 | Aug 26 |  | |  
 
 ## Winter 2026
