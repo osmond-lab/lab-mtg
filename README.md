@@ -1,6 +1,25 @@
 # lab-mtg
 A place to put the lab meeting schedule, and perhaps some associated docs
 
+## Fall 2026
+| Date | Leader  | Notes | 
+|---|---|---|
+| Sep 10 | Mete | mutation ms |
+| Sep 17 | -- | skipped |
+| Sep 24 | Mete & Kuangyi | dominance ms |
+| Oct 01 |  | |
+| Oct 08 | |  |
+| Oct 15 | |  |
+| Oct 22 |  | |  
+| Oct 29 |  |  |  
+| Nov 05 |  | |  
+| Nov 12 |  | |  
+| Nov 19 |  |  |  
+| Nov 26 |  |  |  
+| Dec 03 |  |  |  
+| Dec 10 |  | |  
+| Dec 17 |  | |  
+
 ## Summer 2026
 | Date | Leader  | Notes | 
 |---|---|---|
