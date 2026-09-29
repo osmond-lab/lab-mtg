@@ -8,7 +8,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Sep 17 | -- | skipped |
 | Sep 24 | Mete & Kuangyi | dominance ms |
 | Oct 01 |  | |
-| Oct 08 | |  |
+| Oct 08 | Kuangyi | rescue with mixed genetic basis ms |
 | Oct 15 | |  |
 | Oct 22 |  | |  
 | Oct 29 |  |  |  
