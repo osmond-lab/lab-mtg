@@ -12,7 +12,7 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Oct 15 | Chris | cophylogeny: https://www.biorxiv.org/content/10.64898/2026.09.11.751054 |
 | Oct 22 |  | |  
 | Oct 29 |  |  |  
-| Nov 05 |  | |  
+| Nov 05 | Mete | recombination ms |  
 | Nov 12 |  | |  
 | Nov 19 |  |  |  
 | Nov 26 |  |  |  
