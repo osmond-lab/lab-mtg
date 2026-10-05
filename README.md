@@ -7,9 +7,9 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Sep 10 | Mete | mutation ms |
 | Sep 17 | -- | skipped |
 | Sep 24 | Mete & Kuangyi | dominance ms |
-| Oct 01 |  | |
+| Oct 01 | -- | skipped (busy fall!) |
 | Oct 08 | Kuangyi | rescue with mixed genetic basis ms |
-| Oct 15 | |  |
+| Oct 15 | Chris | cophylogeny: https://www.biorxiv.org/content/10.64898/2026.09.11.751054 |
 | Oct 22 |  | |  
 | Oct 29 |  |  |  
 | Nov 05 |  | |  
