@@ -11,9 +11,9 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Oct 08 | Kuangyi | rescue with mixed genetic basis ms |
 | Oct 15 | -- | skipped |
 | Oct 22 | Chris | cophylogeny: https://www.biorxiv.org/content/10.64898/2026.09.11.751054 |  
-| Oct 29 |  |  |  
+| Oct 29 | Matt | cheaters at the origin of multicellularity |  
 | Nov 05 | Mete | recombination ms |  
-| Nov 12 |  | |  
+| Nov 12 | Chris | AI |  
 | Nov 19 |  |  |  
 | Nov 26 |  |  |  
 | Dec 03 |  |  |  
