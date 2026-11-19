@@ -14,8 +14,8 @@ A place to put the lab meeting schedule, and perhaps some associated docs
 | Oct 29 | Matt | cheaters at the origin of multicellularity |  
 | Nov 05 | Mete | recombination ms |  
 | Nov 12 | Chris | AI |  
-| Nov 19 |  |  |  
-| Nov 26 |  |  |  
+| Nov 19 | Mete | EES |  
+| Nov 26 | Puneeth | rescue genetics: https://www.biorxiv.org/content/10.64898/2026.11.15.766882v1 |  
 | Dec 03 |  |  |  
 | Dec 10 |  | |  
 | Dec 17 |  | |  
